@@ -2,7 +2,7 @@
 
 NOTE: This project should be used for authorized testing or educational purposes only. You are free to copy, modify and reuse the source code at your own risk.
 
-This is a basic Windows-only keylogger in C++ for US standard keyboards.
+This is a basic Windows-only keylogger in Python for US standard keyboards.
 
 If you are using a GMAIL account, you will need to change the settings to "Less Secure Apps" to allow python to send email to GMAIL.
 
